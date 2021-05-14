@@ -1,0 +1,39 @@
+body{
+background: black;
+}
+
+.card{
+    width: 500px;
+    height: 250px;
+    padding: 1px 20px;
+    box-sizing: border-box;
+ background: url(assets/backgorund.png);   
+ background-repeat:no-repeat;
+    background-size:cover;
+ background-position: center;
+ margin: auto;
+ margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(14, 10, 241);
+
+}
+
+.intagram{
+    list-style-image:url('assets/Insta.png') ;
+ 
+
+}
+
+.twitter{
+ list-style-image: url('assets/Twitter.png');
+ }
+
+.EMAIL{
+    list-style-image: url('assets/email.PNG');
+}
+   
+
+

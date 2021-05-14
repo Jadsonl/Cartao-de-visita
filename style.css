@@ -22,17 +22,17 @@ a{
 }
 
 .intagram{
-    list-style-image:url('assets/Insta.png') ;
+    list-style-image:url('..assets/Insta.png') ;
  
 
 }
 
 .twitter{
- list-style-image: url('assets/Twitter.png');
+ list-style-image: url('..assets/Twitter.png');
  }
 
 .EMAIL{
-    list-style-image: url('assets/email.PNG');
+    list-style-image: url('..assets/email.PNG');
 }
    
 
